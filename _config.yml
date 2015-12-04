@@ -1,6 +1,7 @@
 name: Tierverhaltenstherapie Fritsche
 favicon: null
 layout_spectrum: 0.74429
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -15,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#110c09'
-    - '#d0cad4'
-    - '#457eb5'
-    - '#9d1926'
-    - '#c17541'
-  brandStrength: 0.75
-  lightness: 0.5
+    - '#ffffff'
+    - '#297acb'
+    - '#060807'
+    - '#cb512a'
+    - '#acadad'
+  brandStrength: 0.5
+  lightness: 0.5625
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
